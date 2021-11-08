@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PageObjectFinal - Regression Suite" verbose="1">
+	<test name="TestFinal">
+		<classes>
+			<class name="com.pie.grcelm.cucumber.testRunner.UITestRunner"/>
+		</classes>
+	</test>
+</suite>
