@@ -4,7 +4,7 @@
 
   <groupId>com.pie.grcelm</groupId>
   <artifactId>testng-cucumber-selenium-framework</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>testng-cucumber-selenium-framework</name>
